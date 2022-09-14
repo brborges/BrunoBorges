@@ -38,6 +38,8 @@ Tecnicamente, sou fluente em várias linguagens de programação e ferramentas c
 
 ## Atuação profissional
 
+Associate Production Finance - Studio Finance - Netflix (Jun 2021 - Posição Atual)
+
 Coordenador de Planejamento - TV Globo – (Fev 2020 – Jun 2021)
 
 Supervisor Executivo de Viagens - Tv Globo – (Jun 2019 – Fev 2020)
