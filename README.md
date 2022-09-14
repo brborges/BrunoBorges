@@ -1,6 +1,5 @@
-# Olá, eu sou o Bruno Borges
-
-Obrigado por estar aqui. Have fun!
+# Hi, I'm Bruno Borges.
+Glad you're here. Have fun!
 
 ```mermaid
 
@@ -8,7 +7,7 @@ gantt
 dateFormat  YYYY-MM-DD
 title My Timeline
 
-section Carreira
+section Carrier Path
 Atento Brasil                              :active,, 2006-06-01,2009-07-31
 Borges Construção Civil                    :active,, 2009-08-01,2011-11-30
 Grupo GPS                                  :active,, 2011-12-01,2013-08-31
@@ -16,19 +15,15 @@ TV Globo                                   :active,, 2013-09-01,2021-06-30
 Netflix                                    :active,, 2021-07-01,2022-12-31
 
 ```
+## Profile 
 
-## Sobre mim 
+I'm an enthusiast of Data-Driven culture, transforming large amounts of data into relevant information and business insights. For these last thirteen years, I have been closing the gap between Data Analytics, Strategic Planning, Finance, and Management teams.
 
-Entusiasta da cultura Data-Driven, transformando grandes quantidades de dados em informações relevantes e insights de negócios. Nos últimos treze anos, venho diminuindo a distância entre as equipes de Data Analytics, Planejamento Estratégico, Finanças e Gestão.
-
-Atualmente, minha principal área de atuação envolve análise de dados, previsão orçamentária, gestão operacional, gestão de projetos e inovação.
+My main activities involve data analysis, budget forecasting, operational management, project Management, and innovation. I can analyze, model, structure, and interpret data and develop a systemic and analytical perception of indicators and processes.
  
-Capacidade de analisar, modelar, estruturar e interpretar dados e desenvolver uma percepção sistêmica e analítica de indicadores e processos.
+Ability to analyze, model, structure and interpret data and to develop a systemic and analytical perception of indicators and processes.
 
-Tecnicamente, sou fluente em várias linguagens de programação e ferramentas como SQL, MS Excel, GS, Python e R, além de desenvolver belas visualizações usando Power BI, Tableau e MicroStrategy, entre outros, para fornecer soluções orientadas a dados para suporte e tomada de decisão.
-
-
-
+Technically, I'm fluent in several programming languages and tools like SQL, MS Excel, GS, Python, and R, as well as developing beautiful visualization using Power BI, Tableau, MicroStrategy, and others to deliver data-driven solutions for support and decision-making.
   
 <div> 
   <a href="https://www.linkedin.com/in/bruno-santos-borges-56779880/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -36,32 +31,94 @@ Tecnicamente, sou fluente em várias linguagens de programação e ferramentas c
 
 ----
 
-## Atuação profissional
+## Work experience:
 
-Associate Production Finance - Studio Finance - Netflix (Jun 2021 - Posição Atual)
+:black_medium_square: Associate Production Finance - Studio Finance - Netflix (Jun 2021 - Current Position)
 
-Coordenador de Planejamento - TV Globo – (Fev 2020 – Jun 2021)
+:black_medium_square: Planning Coordinator - TV Globo – (Feb 2020 – Jun 2021)
 
-Supervisor Executivo de Viagens - Tv Globo – (Jun 2019 – Fev 2020)
+:black_medium_square: Executive Travel Supervisor - TV Globo – (Jun 2019 – Feb 2020)
 
-Analista Sênior - Tv Globo – (Abr 2016 – Jun 2019)
+:black_medium_square: Senior Analyst - TV Globo – (Apr 2016 – Jun 2019)
 
-Analista Pleno - Tv Globo – (Nov 2014 – Abr 2016)
+:black_medium_square: Analyst - TV Globo – (Nov 2014 – Apr 2016)
 
-Analista Júnior - Tv Globo – (Ago 2013 – Nov 2014)
+:black_medium_square: Junior Analyst - TV Globo – (Aug 2013 – Nov 2014)
 
-Analista de Planejamento - Grupo GPS – (Dez 2011 – Ago 2013)
+:black_medium_square: Planning Analyst - GPS Group - (Dec 2011 - Aug 2013)
 
-Gestor Financeiro - Borges Construção Civil LTDA – (Ago 2009 – Nov 2011)
+:black_medium_square: Financial Manager - Borges Construção Civil LTDA - (Aug 2009 - Nov 2011)
 
-Analista de Planejamento Junior - Atento S/A – (Ago 2007 – Jul 2009)
+:black_medium_square: Junior Planning Analyst - Atento S/A – (Aug 2007 – Jul 2009)
 
-Assistente de Planejamento - Atento S/A – (Fev 2007 - Ago 2007
+:black_medium_square: Planning Assistant - Atento S/A - (Feb 2007 - Aug 2007
 
-Operador de Telemarketing - Atento S/A – (Set 2006 – Fev 2007)
+:black_medium_square: Telemarketing Operator - Atento S/A - (Sep 2006 - Feb 2007)
 
-## Formação Acadêmica
+## Education
 
-Master of Business Administration - Data Science & Analytics na Universidade de Sao Paulo (USP) - (2021 – 2022, Dec)
+Master of Business Administration - Data Science & Analytics at Universidade de Sao Paulo (USP) - (2021 – 2022, Dec)
 
-Graduado em Análise e Desenvolvimento de Sistemas no Centro Universitário Unicarioca – (2009 – 2013)
+Graduated in Systems Development at the Centro Universitário Unicarioca – (2009 – 2013)
+
+## Training
+
+<details>
+<summary>Data Analytics:</summary>
+
+:white_square_button: Python
+
+:white_square_button: R Studio
+
+:white_square_button: SQL
+
+:white_square_button: Microsoft Excel and VBA
+
+:white_square_button: Statistics with Python
+
+:white_square_button: Fundamental Statistics
+
+:white_square_button: Machine Learning Models
+
+</details>
+
+<details>
+<summary>Data Visualization:</summary>
+
+:white_square_button: Business Intelligence and Data Visualization
+
+:white_square_button: Tableau
+
+:white_square_button: MicroStrategy
+
+:white_square_button: Power BI
+
+:white_square_button: Data Visualization with Python and R
+
+</details>
+
+<details>
+<summary>Management:</summary>
+
+:white_square_button: Project Management
+
+:white_square_button: High-impact presentations Leadership
+
+:white_square_button: Communication Development
+
+:white_square_button: Management to results
+
+:white_square_button: Negotiation and Influence
+
+</details>
+
+<details>
+<summary>Languages:</summary>
+
+:white_square_button: Portuguese
+
+:white_square_button: English
+
+:white_square_button: Spanish
+
+</details>
