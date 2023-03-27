@@ -33,7 +33,9 @@ Technically, I'm fluent in several programming languages and tools like SQL, MS 
 
 ## Work experience:
 
-:black_medium_square: Associate Production Finance - Studio Finance - Netflix (Jun 2021 - Current Position)
+:black_medium_square: Data Analyst, Global Ops and Innovation - Studio Finance - Netflix (Nov 2022 - Current Position)
+
+:black_medium_square: Associate Production Finance - Studio Finance - Netflix (Jun 2021 - Nov 2022)
 
 :black_medium_square: Planning Coordinator - TV Globo – (Feb 2020 – Jun 2021)
 
